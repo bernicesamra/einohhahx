@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oodaeshah.monamishra.com/sitemap.xml
